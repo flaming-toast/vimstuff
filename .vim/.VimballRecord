@@ -1,0 +1,1 @@
+tagbar.vmb: call delete('/home/jyu/.vim/autoload/tagbar.vim')|call delete('/home/jyu/.vim/doc/tagbar.txt')|call delete('/home/jyu/.vim/plugin/tagbar.vim')|call delete('/home/jyu/.vim/syntax/tagbar.vim')
